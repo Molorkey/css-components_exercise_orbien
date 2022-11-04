@@ -86,15 +86,15 @@ h1{
   margin: 0 auto;
 }
 
-.card__bg-flame, .button--bg-flame{
+.card__bg-flame, .card__button--bg-flame{
   background-image: linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
 
-.card__bg-ice, .button--bg-ice{
+.card__bg-ice, .card__button--bg-ice{
   background-image: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
 
-.card__bg-wind, .button--bg-wind{
+.card__bg-wind, .card__button--bg-wind{
   background-image:linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
 }
 
